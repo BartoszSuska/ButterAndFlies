@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ee2b2bb1f0a208744a1f603ba87fcb85
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Croissant One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f758bfbb1b82f894a96ce9b08878f7ee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
